@@ -1,0 +1,19 @@
+main {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+body {
+  background: #f0ecec;
+  font-family: 'Roboto', sans-serif;
+}
+
+.content {
+  margin-top: 120px;
+  margin-left: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}

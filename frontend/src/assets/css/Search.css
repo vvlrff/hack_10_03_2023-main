@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background: #242121;
+}
+
+button {
+    margin: 10px;
+}
